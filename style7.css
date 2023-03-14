@@ -136,8 +136,6 @@ body{
     border-radius: 4px;
     width: 360px;
     height: 250px;
-    margin-left: 395px;
-    margin-top: 70px;
 }
 
 .img2, .img3, .img4{
@@ -216,8 +214,6 @@ body{
     height: 250px;
     background-color: #ffffff;
     border-radius: 4px;
-    margin-left: 800px;
-    margin-top: -250px;
 }   
 
 .p7{
@@ -234,8 +230,6 @@ body{
     height: 250px;
     background-color: #ffffff;
     border-radius: 4px;
-    margin-top: -250px;
-    margin-left: 1205px;
 }
 
 .span6{
@@ -345,3 +339,14 @@ body{
     margin-left: 93.5%;
     margin-top: -33px;
 }
+
+.div1, .div2, .div3{
+    margin: 30px;
+}
+
+.div4{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
